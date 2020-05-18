@@ -1,0 +1,19 @@
+PIXEL - Port IoT for Environmental Leverage
+
+This project has received funding from the European Union's Horizon 2020
+research and innovation programme under grant agreement No 769355.
+
+Copyright 2020 XLAB razvoj programske opreme in svetovanje d.o.o.
+
+This product uses the following software with corresponding licenses:
+
+pandas (https://github.com/pandas-dev/pandas) distributed under BSD 3-Clause "New" or "Revised" License
+matplotlib (https://github.com/matplotlib/matplotlib) distributed under License agreement for matplotlib versions 1.3.0 and later, in which applies Copyright (c) 2012- Matplotlib Development Team; All Rights Reserved
+eolearn (https://github.com/sentinel-hub/eo-learn) distributed under MIT license
+geopandas (https://github.com/geopandas/geopandas) distributed under distributed under BSD 3-Clause "New" or "Revised" License
+scikit-image (https://github.com/scikit-image/scikit-image) license: https://github.com/scikit-image/scikit-image/blob/master/LICENSE.txt
+rasterio (https://github.com/mapbox/rasterio) license: https://github.com/mapbox/rasterio/blob/master/LICENSE.txt
+shapely (https://github.com/Toblerity/Shapely) license: https://github.com/Toblerity/Shapely/blob/master/LICENSE.txt
+osgeo-gdal (https://github.com/OSGeo/gdal) distributed under MIT license
+sentinelhub-py (https://github.com/sentinel-hub/sentinelhub-py) distributed under MIT license
+opencv (https://github.com/opencv/opencv) distributed under BSD 3-Clause "New" or "Revised" License
